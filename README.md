@@ -27,7 +27,7 @@ Multiple features have been provided in the site-
     - openpyxl
     - pillow
     - tkcalendar
--Excel Sheet
+    - Excel Sheet
 
 # How to Use
 
