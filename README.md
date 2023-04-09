@@ -23,11 +23,11 @@ Multiple features have been provided in the site-
 - Python 3.11.2
 - Python Modules:
     - tkinter
-    - sqlite3
     - openpyxl
     - pillow
     - tkcalendar
 - Excel Sheet
+- VS code
 
 # How to Use
 
