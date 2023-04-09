@@ -15,7 +15,7 @@ Multiple features have been provided in the site-
 - **Procedures**-All surgeries and other medical procedures that the hospital can provide are written in this section.
 - **BMI CALCULATOR**-an easy health check that can be performed within a matter of seconds is by analysing BMI, also we have provided a few suggestions inaccordance with the BMI of the users.
 - **Chatbot**-Though we have added the button for this purpose, but this lies within the future scope of the website that can make the user's experience better and more convenient.
-- **Records**-We have attached the "book and appointment" form with an excel sheet so as to store the data in an organised manner.
+- **Records**-We have attached the "book and appointment" and "request callback" forms with separate excel sheets so as to store the data in an organised manner.
 
 
 # Technologies
